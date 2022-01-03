@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Stats](https://github-readme-stats.vercel.app/api?username=poi-ai)](https://github.com/poi-ai)
+
+[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poi-ai)](https://github.com/poi-ai)
+
 <!--
 **poi-ai/poi-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
