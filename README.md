@@ -1,20 +1,10 @@
 ### Hi there 👋
+I'm Japanese programmer.
+I'm developing a redictions horse-racing AI to get rich.
+We are looking for people who can collaborate us develop it together.
+→　https://github.com/poi-ai/keibaAI
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=poi-ai)](https://github.com/poi-ai)
-
-[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poi-ai)](https://github.com/poi-ai)
-
-<!--
-**poi-ai/poi-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=poi-ai&show_icons=ture" />
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poi-ai&layout=compact&show_icons=true" />
+</p>
