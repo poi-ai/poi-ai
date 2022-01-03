@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Japanese programmer.<br>
-I'm developing a redictions horse-racing AI to get rich.<br>
+I'm developing a predict horse-racing AI to get rich.<br>
 We are looking for people who can collaborate us develop it together.<br>
 →　https://github.com/poi-ai/keibaAI
 
